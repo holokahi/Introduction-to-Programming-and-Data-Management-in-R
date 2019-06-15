@@ -1,1 +1,1 @@
-# STA-4233-Introduction-to-Programming-and-Data-Management-in-R
+# Introduction-to-Programming-and-Data-Management-in-R
